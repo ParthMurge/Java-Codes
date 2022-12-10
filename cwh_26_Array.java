@@ -16,7 +16,7 @@ public class cwh_26_Array {
     marks[2] = 56;
     marks[3] = 20;
     marks[4] = 19;
-    System.out.println(marks[3]);
+    System.out.println("Marks at the location of address of Array 3 is : "+marks[3]);
 
     // 2. Declaration and then Memory Allocation:
     int[] marks1;
